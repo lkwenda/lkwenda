@@ -1,4 +1,6 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Garamond&pause=900&color=F7F7F7&vCenter=true&multiline=true&width=450&height=80&lines=Hello+%F0%9F%91%8B+I'm+Luyando!;Welcome+to+my+little+Github+corner+%F0%9F%8E%89)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Garamond&pause=900&color=F7F7F7&vCenter=true&multiline=true&width=450&height=70&lines=Hello+%F0%9F%91%8B+I'm+Luyando!;Welcome+to+my+little+Github+corner+%F0%9F%8E%89)](https://git.io/typing-svg)
+
+Welcome to my GitHub page! I’m Luyando Kwenda, an engineer who loves learning, building, and figuring out how things work. I’ve watched every episode of Ultimate Airport Dubai and Air Crash Investigation, so you could say I have a fascination with how systems operate—whether they run smoothly or fail spectacularly. I’m always looking for new challenges, whether it’s improving processes, solving problems, or just diving deep into something that sparks my curiosity. Follow along as I explore, experiment, and share what I learn along the way!
 <!--
 **lkwenda/lkwenda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
